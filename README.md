@@ -1,4 +1,4 @@
-Online Shopping Cart
+                                                                            ONLINE SHOPPING CART
 
 Overview :
 
@@ -26,58 +26,41 @@ Framework: Angular
 
 Programming Language: TypeScript
 
-Installation and Setup
+Installation and Setup :
 
 Clone the repository:
 
-git clone https://github.com/your-username/online-shopping-cart.git
+ - git clone https://github.com/your-username/online-shopping-cart.git
 
 Navigate to the project directory:
 
-cd online-shopping-cart
+ - cd online-shopping-cart
 
 Install dependencies:
 
-npm install
+ - npm install
 
 Run the development server:
 
-ng serve
+ - ng serve
 
 Open your browser and navigate to:
 
-http://localhost:4200
+ - http://localhost:4200
 
-Usage
+Usage :
 
-Browse the available products
+ - Browse the available products
 
-Add products to the shopping cart
+ - Add products to the shopping cart
 
-Adjust quantities or remove items as needed
+ - Adjust quantities or remove items as needed
 
-Proceed to checkout (future enhancement)
+ - Proceed to checkout (future enhancement)
 
-Future Enhancements
-
-Backend integration with a database
-
-User authentication and order history
-
-Payment gateway integration
-
-Enhanced UI/UX with animations
-
-Contributing
-
-Contributions are welcome! If you would like to improve this project, feel free to fork the repository and submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
-
-Contact
+Contact : 
 
 For any queries or suggestions, feel free to reach out.
 
-Developer: VinayakiGitHub: Your GitHub Profile
+Developer: Vinayaki
+GitHub: vina-1234

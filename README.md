@@ -1,4 +1,4 @@
-                                                                            ONLINE SHOPPING CART
+ONLINE SHOPPING CART
 
 Overview :
 
